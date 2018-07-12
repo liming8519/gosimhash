@@ -2,7 +2,7 @@ package gosimhash
 
 import (
 	"testing"
-	"github.com/HaoyuHu/gosimhash/utils"
+	"github.com/liming8519/gosimhash/utils"
 )
 
 func TestSimhashWithJenkins(t *testing.T) {

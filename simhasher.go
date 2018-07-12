@@ -3,7 +3,7 @@ package gosimhash
 import (
 	"strconv"
 	"fmt"
-	"github.com/HaoyuHu/gosimhash/utils"
+	"github.com/liming8519/gosimhash/utils"
 	jieba "github.com/yanyiwu/gojieba"
 )
 
